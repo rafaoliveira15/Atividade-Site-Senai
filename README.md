@@ -2,7 +2,7 @@
 
 
 Este é um projeto simples de uma landing page do site SENAI-SP. O site foi construído utilizando HTML e CSS, e possui um design responsivo.
-Este é um projeto simples, criado com o objetivo de estudar e praticar conceitos de responsividade e a estrutura básica de um site. O site não
+Criado com o objetivo de estudar e praticar conceitos de responsividade e a estrutura básica de um site. O site não
 é funcional; ele foi desenvolvido apenas para fins educacionais.
 
 
