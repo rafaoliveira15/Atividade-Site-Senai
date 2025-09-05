@@ -1,10 +1,15 @@
-🌐 Site de Divulgação de Cursos SENAI-SP
+🌐 ATIVIDADE SITE RESPONSIVO SENAI-SP
 
 
 Este é um projeto simples de uma landing page do site SENAI-SP. O site foi construído utilizando HTML e CSS, e possui um design responsivo.
 Criado com o objetivo de estudar e praticar conceitos de responsividade e a estrutura básica de um site. O site não
 é funcional; ele foi desenvolvido apenas para fins educacionais.
 
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e2bd0294-d5f5-48ef-ac15-2e4be0c1d54b" />
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3351b1b9-2630-4051-b1a6-368101b604e2" />
 
 
 🔗 Funcionalidades e Estrutura
@@ -34,14 +39,3 @@ HTML: A estrutura e a semântica de uma página web.
 CSS: A estilização de elementos, incluindo o posicionamento (position: sticky), o design de layouts e o uso de flexbox.
 
 Responsividade: O uso de media queries para adaptar o layout a diferentes tamanhos de tela (como em dispositivos móveis).
-
-
-🖼️Imagens
-
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e2bd0294-d5f5-48ef-ac15-2e4be0c1d54b" />
-
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3351b1b9-2630-4051-b1a6-368101b604e2" />
-
-
