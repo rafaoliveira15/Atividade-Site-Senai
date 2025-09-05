@@ -8,17 +8,17 @@ Este é um projeto simples, criado com o objetivo de estudar e praticar conceito
 🔗 Funcionalidades e Estrutura
 
 
-Menu de Navegação Fixo: O menu de navegação no topo da página permanece fixo à medida que o usuário rola a tela. Ele inclui links para Home, Cursos, Contato e um botão de Cadastro.
+-Menu de Navegação Fixo: O menu de navegação no topo da página permanece fixo à medida que o usuário rola a tela. Ele inclui links para Home, Cursos, Contato e um botão de Cadastro.
 
-Banner Principal: A página inicial apresenta um banner com uma imagem de destaque e um botão de "Acessar" para a seção de cursos online.
+-Banner Principal: A página inicial apresenta um banner com uma imagem de destaque e um botão de "Acessar" para a seção de cursos online.
 
-Seção de Conteúdo: Uma área principal com texto e uma imagem que convida o usuário a aprender programação.
+-Seção de Conteúdo: Uma área principal com texto e uma imagem que convida o usuário a aprender programação.
 
-Rodapé: O rodapé inclui o logo do SENAI-SP, informações de contato e a frase de direitos autorais.
+-Rodapé: O rodapé inclui o logo do SENAI-SP, informações de contato e a frase de direitos autorais.
 
-Botão Flutuante do WhatsApp: Um ícone do WhatsApp fixo no canto inferior direito da tela, que permite ao usuário iniciar uma conversa com a instituição.
+-Botão Flutuante do WhatsApp: Um ícone do WhatsApp fixo no canto inferior direito da tela, que permite ao usuário iniciar uma conversa com a instituição.
 
-Design Responsivo: O layout se adapta a diferentes tamanhos de tela, garantindo que o site seja acessível tanto em computadores quanto em dispositivos móveis.
+-Design Responsivo: O layout se adapta a diferentes tamanhos de tela, garantindo que o site seja acessível tanto em computadores quanto em dispositivos móveis.
 
 
 -O que você pode aprender com este projeto:
