@@ -12,6 +12,8 @@ Criado com o objetivo de estudar e praticar conceitos de responsividade e a estr
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3351b1b9-2630-4051-b1a6-368101b604e2" />
 
 
+
+
 🔗 Funcionalidades e Estrutura
 
 
