@@ -7,8 +7,7 @@ Criado com o objetivo de estudar e praticar conceitos de responsividade e a estr
 
 🔗LINK
 
-https://portalsenai.netlify.app/
-
+https://portallsenai.netlify.app
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e2bd0294-d5f5-48ef-ac15-2e4be0c1d54b" />
 
