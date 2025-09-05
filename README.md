@@ -6,7 +6,9 @@ Este é um projeto simples, criado com o objetivo de estudar e praticar conceito
 é funcional; ele foi desenvolvido apenas para fins educacionais.
 
 
+
 🔗 Funcionalidades e Estrutura
+
 
 
 -Menu de Navegação Fixo: O menu de navegação no topo da página permanece fixo à medida que o usuário rola a tela. Ele inclui links para Home, Cursos, Contato e um botão de Cadastro.
@@ -22,7 +24,9 @@ Este é um projeto simples, criado com o objetivo de estudar e praticar conceito
 -Design Responsivo: O layout se adapta a diferentes tamanhos de tela, garantindo que o site seja acessível tanto em computadores quanto em dispositivos móveis.
 
 
--O que você pode aprender com este projeto:
+
+📝O que você pode aprender com este projeto:
+
 
 
 HTML: A estrutura e a semântica de uma página web.
