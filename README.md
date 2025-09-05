@@ -39,9 +39,9 @@ Responsividade: O uso de media queries para adaptar o layout a diferentes tamanh
 🖼️Imagens
 
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e2bd0294-d5f5-48ef-ac15-2e4be0c1d54b" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e2bd0294-d5f5-48ef-ac15-2e4be0c1d54b" />
 
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3351b1b9-2630-4051-b1a6-368101b604e2" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3351b1b9-2630-4051-b1a6-368101b604e2" />
 
 
