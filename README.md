@@ -5,6 +5,10 @@ Este é um projeto simples de uma landing page do site SENAI-SP. O site foi cons
 Criado com o objetivo de estudar e praticar conceitos de responsividade e a estrutura básica de um site. O site não
 é funcional; ele foi desenvolvido apenas para fins educacionais.
 
+🔗LINK
+
+https://portalsenai.netlify.app/
+
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e2bd0294-d5f5-48ef-ac15-2e4be0c1d54b" />
 
