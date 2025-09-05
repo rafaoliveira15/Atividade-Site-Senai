@@ -5,6 +5,7 @@ Este é um projeto simples de uma landing page do site SENAI-SP. O site foi cons
 Este é um projeto simples, criado com o objetivo de estudar e praticar conceitos de responsividade e a estrutura básica de um site. O site não
 é funcional; ele foi desenvolvido apenas para fins educacionais.
 
+
 🔗 Funcionalidades e Estrutura
 
 
@@ -22,6 +23,7 @@ Este é um projeto simples, criado com o objetivo de estudar e praticar conceito
 
 
 -O que você pode aprender com este projeto:
+
 
 HTML: A estrutura e a semântica de uma página web.
 
