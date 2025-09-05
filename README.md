@@ -34,3 +34,14 @@ HTML: A estrutura e a semântica de uma página web.
 CSS: A estilização de elementos, incluindo o posicionamento (position: sticky), o design de layouts e o uso de flexbox.
 
 Responsividade: O uso de media queries para adaptar o layout a diferentes tamanhos de tela (como em dispositivos móveis).
+
+
+🖼️Imagens
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e2bd0294-d5f5-48ef-ac15-2e4be0c1d54b" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3351b1b9-2630-4051-b1a6-368101b604e2" />
+
+
