@@ -1,0 +1,220 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
+body {
+  
+  font-family: Arial, sans-serif;
+  
+}
+
+/* Header */
+header {
+  padding: 15px 0; /* tamanho do negócio cinza do menu */
+  position: sticky;
+  top: 0;
+  z-index: 10; /* mantém fixo o menu */
+  background-color: rgba(0, 0, 0, 0.7);
+  
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 40px; /* logo senai */
+}
+
+nav a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn-cadastro {
+  background-color: red;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  /* borda vermelha do botão de cadastro */
+}
+
+/* Banner */
+.banner {
+  background-image: url('img/destaque.jpg'); /* imagem de fundo */
+  background-size: cover;  /* cobre todo o fundo */
+  background-position: center;/* centro  */
+  height: 450px; /* altura do banner (foto) */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  position: relative;
+
+}
+
+.banner-content {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 30px;
+  border-radius: 10px;
+ margin-left: -600px;
+ /* botão de aprendizagem online */
+}
+
+.banner h1 {
+  font-size: 35px;
+  color: #333;
+  /* letra e cor do texto botãp*/
+}
+
+.banner span {
+  color: red; /* cor do online */
+}
+
+.banner button {
+  margin-top: 15px;
+  padding: 10px 25px;
+  font-size: 20px;
+  background-color: red;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  /* botão de acesso */
+}
+
+/* Conteúdo */
+.conteudo {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.conteudo h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.conteudo p {
+  margin-bottom: 20px;
+  font-size: 15px;
+  color: #444;
+}
+
+.conteudo img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px black;
+  width: 400px;
+  height: 200px;
+}
+
+/* Rodapé */
+footer {
+  background-color: #5f5e5e;
+    height: 80px;/* tamanho do footer */
+  color: white;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.footertexto{
+    text-align: justify;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+footer img {
+  height: 30px;
+  margin-bottom: 10px;
+  justify-content: left;
+  
+}
+
+/* WhatsApp flutuante */
+.whatsapp {
+  position: fixed; /* fixa a imaggem, ela acompanha conforme vc rola a pagina */
+  bottom: 20px;
+  right: 20px;
+  
+  
+}
+
+.whatsapp img {
+  width: 50px; /* tamanho da borda */
+  border-radius: 100px;
+  padding: 5%;
+ background-color: rgba(133, 255, 133, 0.9);
+}
+
+/* Responsivo */
+
+@media (max-width: 768px) {
+
+    .container {
+    flex-direction: column; /* deixa em coluna */
+    align-items: flex-start;
+    
+  }
+
+  nav {
+    margin-top: 10px; /* tamanho do menu */
+    
+  }
+
+  .banner button {
+    font-size: 15px;
+    /* tamanho do botão de acessar */
+    
+  }
+  .banner {
+    height: 400px; /* Imagem aumenta e diminui */
+  }
+
+  .banner-content {
+    padding: 20px; /* Aumenta a borda transparente do botão */
+  }
+
+  .banner h1 {
+    font-size: 25px; /* Tamanho do h1 quando principal */
+    
+  }
+
+  .banner-content{
+    display: flex; /* Movimenta onde você quiser */
+    justify-content: center; /* Alinha no centro */
+    margin: auto; /* leva a borda e o botão para onde o justify-content mandar*/
+   
+
+  }
+
+  .conteudo h2 {
+    font-size: 20px; /* tamanho do paragrafo */
+  }
+
+  nav a {
+    display: block;
+    margin: 10px 0; /* tamanho do troço transparente do menu */
+  }
+
+  .container {
+    align-items: center;
+  }
+}
